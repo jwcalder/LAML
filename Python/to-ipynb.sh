@@ -8,7 +8,7 @@ pyfile=$1
 
 echo "Converting $pyfile to "$(dirname "$pyfile")/$(basename "$pyfile" .py).ipynb"..."
 
-url=https://colab.research.google.com/github/jwcalder/LAMLPython/blob/main/"$(dirname "$pyfile")/$(basename "$pyfile" .py).ipynb"
+url=https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/"$(dirname "$pyfile")/$(basename "$pyfile" .py).ipynb"
 qr_name_eps="$(dirname "$pyfile")_$(basename "$pyfile" .py).eps"
 qr_name_pdf="$(dirname "$pyfile")_$(basename "$pyfile" .py).pdf"
 echo Creating QR code for $url and storing in QRCodes/$qr_name_pdf
