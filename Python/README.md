@@ -8,14 +8,15 @@
 * [AdvancedNumpy](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/AdvancedNumpy.ipynb): An overview of more advanced features of NumPy.
 * [AdvancedNumpySol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/AdvancedNumpySol.ipynb): An overview of more advanced features of NumPy.
 * [NumpySolvers](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/NumpySolvers.ipynb): Basic introductory notebook showing how to solve linear systems and eigenvalue problems in Numpy (and Scipy). 
+* [IntroPandas](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/IntroPandas.ipynb): Basic introduction to the Pandas package.
+* [IntroPyTorch](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/IntroPyTorch.ipynb): Basic introduction to the PyTorch package, which is used for deep learning.
 
 ## Optimization (Chapters 6 and 11)
-* [GradientDescent](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/GradientDescent.ipynb)
-* [NewtonsMethod](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/NewtonsMethod.ipynb)
+* [GradientDescent](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/GradientDescent.ipynb): Gradient descent in NumPy from scratch (Section 6.4).
+* [NewtonsMethod](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/NewtonsMethod.ipynb): Newton's method in NumPy (Section 6.10)
 * [StochasticGradientDescent](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/StochasticGradientDescent.ipynb)
 
 ## Introduction to Machine Learning (Chapter 7)
-* [IntroPandas](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/IntroPandas.ipynb)
 * [LinearRegression](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/LinearRegression.ipynb)
 * [SupportVectorMachines](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/SupportVectorMachines.ipynb)
 * [kMeans](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/kMeans.ipynb)
@@ -41,4 +42,3 @@
 * [ConvolutionalNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/ConvolutionalNeuralNetworks.ipynb)
 * [FullyConnectedNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/FullyConnectedNeuralNetworks.ipynb)
 * [GraphConvolutionalNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/GraphConvolutionalNeuralNetworks.ipynb)
-* [IntroPyTorch](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/IntroPyTorch.ipynb)
