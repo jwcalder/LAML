@@ -1,6 +1,6 @@
 # Linear Algebra and Machine Learning Textbook
 
-This is the main website for the electronic material for the Textbook
+This is the main website for electronic material for the textbook
 
 J. Calder, P. J. Olver. [Linear Algebra and Machine Learning](https://), Springer 2025.
 
