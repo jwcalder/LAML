@@ -11,6 +11,9 @@
 * [IntroPandas](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/IntroPandas.ipynb): Basic introduction to the Pandas package.
 * [IntroPyTorch](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/IntroPyTorch.ipynb): Basic introduction to the PyTorch package, which is used for deep learning.
 
+## Eigenvalues and Singular Values (Chapter 5)
+* [NumericalComputationofEigenvalues](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Homework/NumericalComputationofEigenvalues.ipynb): Numerical computation of eigenvalues and eigenvectors using the power method and orthogonal iteration (Section 5.6).
+
 ## Optimization (Chapters 6 and 11)
 * [GradientDescent](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/GradientDescent.ipynb): Gradient descent in NumPy from scratch (Section 6.4).
 * [NewtonsMethod](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/NewtonsMethod.ipynb): Newton's method in NumPy (Section 6.10).
