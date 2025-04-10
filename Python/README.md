@@ -1,5 +1,7 @@
 # Python Notebooks for Linear Algebra and Machine Learning
 
+Below are descriptions of, and links to, the Python notebooks from the main body of the text. There are additional homework solution notebooks that are linked in the student solution manual. All notebooks are stored in this GitHub repository, but clicking on the link below will conveniently open the notebook in Google Colab. 
+
 ## Introductory Notebooks
 * [IntroPython](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroPython.ipynb): Basic introduction to the Python programming language.
 * [IntroPythonSol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroPythonSol.ipynb): Basic introduction to the Python programming language with solutions to exercises. 
