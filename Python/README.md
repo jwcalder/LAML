@@ -26,14 +26,14 @@
 * [IntroPCA](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/PrincipalComponentAnalysis/IntroPCA.ipynb): Computation of principal components in NumPy and SciPy and applications (Section 8.1).
 * [PCACompression](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/PrincipalComponentAnalysis/PCACompression.ipynb): Code examples of PCA-based image compression (Section 8.3).
 * [LDA](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/PrincipalComponentAnalysis/LDA.ipynb): Code demonstrating how to compute the linear discriminant analysis (LDA) embedding in NumPy and SciPy (Section 8.4).
-* [MDS](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/PrincipalComponentAnalysis/MDS.ipynb) (Section 8.5).
+* [MDS](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/PrincipalComponentAnalysis/MDS.ipynb): Code demonstrating how to multidimensional scaling (MDS) in NumPy and SciPy  (Section 8.5).
 
 ## Graph-Based Learning (Chapter 9)
-* [IntroToGraphs](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/IntroToGraphs.ipynb) (Section 9.1).
-* [BinarySpectralClustering](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/BinarySpectralClustering.ipynb) (Section 9.4).
-* [ShortestPaths](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/ShortestPaths.ipynb) (Section 9.5).
-* [PageRank](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/PageRank.ipynb) (Section 9.6).
-* [SpectralEmbeddings](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/SpectralEmbeddings.ipynb) (Section 9.7).
+* [IntroToGraphs](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/IntroToGraphs.ipynb): Introduction to graphs and how to load and display them with the [GraphLearning](https://github.com/jwcalder/GraphLearning) Python package (Section 9.1).
+* [BinarySpectralClustering](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/BinarySpectralClustering.ipynb): Binary spectral clustering using the GraphLearning package (Section 9.4).
+* [ShortestPaths](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/ShortestPaths.ipynb): Overview of how to compute shortest paths and their lengths on graphs using the GraphLearning package (Section 9.5).
+* [PageRank](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/PageRank.ipynb): Computation of the PageRank vector and applications  (Section 9.6).
+* [SpectralEmbeddings](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/SpectralEmbeddings.ipynb): Demo of spectral embeddings and spectral clustering using the GraphLearning package (Section 9.7).
 * [tSNE](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/tSNE.ipynb) (Section 9.8).
 * [GraphBasedSSL](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/GraphBasedSSL.ipynb) (Section 9.9).
 * [DiscreteFourierTransform](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/DiscreteFourierTransform.ipynb) (Section 9.10).
