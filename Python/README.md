@@ -11,6 +11,9 @@
 * [IntroPandas](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/IntroPandas.ipynb): Basic introduction to the Pandas package.
 * [IntroPyTorch](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/IntroPyTorch.ipynb): Basic introduction to the PyTorch package, which is used for deep learning.
 
+## QR Factorization (Chapter 4)
+* [QRFactorization](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Homework/QRFactorization.ipynb): Notebook on QR factorization and numerical instabilities (Section 4.7).
+
 ## Eigenvalues and Singular Values (Chapter 5)
 * [NumericalComputationofEigenvalues](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Homework/NumericalComputationofEigenvalues.ipynb): Numerical computation of eigenvalues and eigenvectors using the power method and orthogonal iteration (Section 5.6).
 
