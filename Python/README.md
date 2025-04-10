@@ -1,13 +1,13 @@
 # Python Notebooks for Linear Algebra and Machine Learning
 
 ## Introductory Notebooks
-* [AdvancedNumpy](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/AdvancedNumpy.ipynb)
-* [AdvancedNumpySol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/AdvancedNumpySol.ipynb)
-* [IntroNumpy](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroNumpy.ipynb)
-* [IntroNumpySol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroNumpySol.ipynb)
-* [IntroPython](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroPython.ipynb)
-* [IntroPythonSol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroPythonSol.ipynb)
-* [NumpySolvers](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/NumpySolvers.ipynb)
+* [IntroPython](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroPython.ipynb): Basic introduction to the Python programming language.
+* [IntroPythonSol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroPythonSol.ipynb): Basic introduction to the Python programming language with solutions to exercises. 
+* [IntroNumpy](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroNumpy.ipynb): Basic introduction to the NumPy package.
+* [IntroNumpySol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroNumpySol.ipynb): Basic introduction to the NumPy package with solutions to exercises.
+* [AdvancedNumpy](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/AdvancedNumpy.ipynb): An overview of more advanced features of NumPy.
+* [AdvancedNumpySol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/AdvancedNumpySol.ipynb): An overview of more advanced features of NumPy.
+* [NumpySolvers](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/NumpySolvers.ipynb): Basic introductory notebook showing how to solve linear systems and eigenvalue problems in Numpy (and Scipy). 
 
 ## Optimization (Chapters 6 and 11)
 * [GradientDescent](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/GradientDescent.ipynb)
