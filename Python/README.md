@@ -23,22 +23,22 @@
 * [kMeans](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/kMeans.ipynb): Code demonstrating the details of the k-means algorithm using NumPy (Section 7.5).
 
 ## Principal Component Analysis (Chapter 8)
-* [IntroPCA](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/PrincipalComponentAnalysis/IntroPCA.ipynb)
-* [LDA](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/PrincipalComponentAnalysis/LDA.ipynb)
-* [MDS](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/PrincipalComponentAnalysis/MDS.ipynb)
-* [PCACompression](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/PrincipalComponentAnalysis/PCACompression.ipynb)
+* [IntroPCA](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/PrincipalComponentAnalysis/IntroPCA.ipynb): Computation of principal components in NumPy and SciPy and applications (Section 8.1).
+* [PCACompression](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/PrincipalComponentAnalysis/PCACompression.ipynb): Code examples of PCA-based image compression (Section 8.3).
+* [LDA](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/PrincipalComponentAnalysis/LDA.ipynb): Code demonstrating how to compute the linear discriminant analysis (LDA) embedding in NumPy and SciPy (Section 8.4).
+* [MDS](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/PrincipalComponentAnalysis/MDS.ipynb) (Section 8.5).
 
 ## Graph-Based Learning (Chapter 9)
-* [BinarySpectralClustering](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/BinarySpectralClustering.ipynb)
-* [DiscreteFourierTransform](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/DiscreteFourierTransform.ipynb)
-* [GraphBasedSSL](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/GraphBasedSSL.ipynb)
-* [IntroToGraphs](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/IntroToGraphs.ipynb)
-* [PageRank](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/PageRank.ipynb)
-* [ShortestPaths](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/ShortestPaths.ipynb)
-* [SpectralEmbeddings](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/SpectralEmbeddings.ipynb)
-* [tSNE](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/tSNE.ipynb)
+* [IntroToGraphs](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/IntroToGraphs.ipynb) (Section 9.1).
+* [BinarySpectralClustering](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/BinarySpectralClustering.ipynb) (Section 9.4).
+* [ShortestPaths](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/ShortestPaths.ipynb) (Section 9.5).
+* [PageRank](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/PageRank.ipynb) (Section 9.6).
+* [SpectralEmbeddings](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/SpectralEmbeddings.ipynb) (Section 9.7).
+* [tSNE](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/tSNE.ipynb) (Section 9.8).
+* [GraphBasedSSL](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/GraphBasedSSL.ipynb) (Section 9.9).
+* [DiscreteFourierTransform](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/DiscreteFourierTransform.ipynb) (Section 9.10).
 
 ## Neural Networks (Chapter 10)
-* [ConvolutionalNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/ConvolutionalNeuralNetworks.ipynb)
-* [FullyConnectedNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/FullyConnectedNeuralNetworks.ipynb)
-* [GraphConvolutionalNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/GraphConvolutionalNeuralNetworks.ipynb)
+* [FullyConnectedNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/FullyConnectedNeuralNetworks.ipynb) (Section 10.1)
+* [ConvolutionalNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/ConvolutionalNeuralNetworks.ipynb) (Section 10.3)
+* [GraphConvolutionalNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/GraphConvolutionalNeuralNetworks.ipynb) (Section 10.4)
