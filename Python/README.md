@@ -8,3 +8,9 @@
 * [IntroPython](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroPython.ipynb)
 * [IntroPythonSol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroPythonSol.ipynb)
 * [NumpySolvers](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/NumpySolvers.ipynb)
+
+## Optimization
+* [GradientDescent](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/GradientDescent.ipynb)
+* [NewtonsMethod](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/NewtonsMethod.ipynb)
+* [StochasticGradientDescent](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/StochasticGradientDescent.ipynb)
+
