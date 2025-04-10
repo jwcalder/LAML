@@ -13,14 +13,14 @@
 
 ## Optimization (Chapters 6 and 11)
 * [GradientDescent](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/GradientDescent.ipynb): Gradient descent in NumPy from scratch (Section 6.4).
-* [NewtonsMethod](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/NewtonsMethod.ipynb): Newton's method in NumPy (Section 6.10)
-* [StochasticGradientDescent](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/StochasticGradientDescent.ipynb)
+* [NewtonsMethod](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/NewtonsMethod.ipynb): Newton's method in NumPy (Section 6.10).
+* [StochasticGradientDescent](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Optimization/StochasticGradientDescent.ipynb): Some basic toy examples of stochastic gradient descent (Section 11.5).
 
 ## Introduction to Machine Learning (Chapter 7)
-* [LinearRegression](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/LinearRegression.ipynb)
-* [SupportVectorMachines](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/SupportVectorMachines.ipynb)
-* [kMeans](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/kMeans.ipynb)
-* [kNearestNeighbor](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/kNearestNeighbor.ipynb)
+* [LinearRegression](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/LinearRegression.ipynb): Basic example of ridge regression in NumPy (Section 7.2).
+* [SupportVectorMachines](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/SupportVectorMachines.ipynb): Examples of how to train a support vector machine using sklearn (Section 7.3).
+* [kNearestNeighbor](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/kNearestNeighbor.ipynb): Examples of how to train a k-nearest neighbors classifier using sklearn (Section 7.4).
+* [kMeans](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/kMeans.ipynb): Code demonstrating the details of the k-means algorithm using NumPy (Section 7.5).
 
 ## Principal Component Analysis (Chapter 8)
 * [IntroPCA](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/PrincipalComponentAnalysis/IntroPCA.ipynb)
