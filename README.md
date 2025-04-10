@@ -1,4 +1,4 @@
-# Linear Algebra and Machine Learning Textbook
+# Linear Algebra, Data Science, and Machine Learning Textbook
 
 This is the main website for electronic material for the textbook
 
@@ -11,7 +11,7 @@ The student solutions manual and errata for the book can be found at the links b
 * [Student Solutions Manual](https://)
 * [Errata](https://)
 
-## Python Notebooks for Linear Algebra and Machine Learning
+## Python Notebooks
 
 Below are descriptions of, and links to, the Python notebooks from the main body of the text. There are additional homework solution notebooks that are linked in the student solution manual. All notebooks are stored in this GitHub repository, but clicking on the link below will conveniently open the notebook in Google Colab. 
 
