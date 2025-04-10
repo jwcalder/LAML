@@ -39,6 +39,8 @@
 * [DiscreteFourierTransform](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/GraphBasedLearning/DiscreteFourierTransform.ipynb): Implementation of the fast Fourier transform in NumPy and applications to signal denoising (Section 9.10).
 
 ## Neural Networks (Chapter 10)
-* [FullyConnectedNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/FullyConnectedNeuralNetworks.ipynb) (Section 10.1)
-* [ConvolutionalNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/ConvolutionalNeuralNetworks.ipynb) (Section 10.3)
-* [GraphConvolutionalNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/GraphConvolutionalNeuralNetworks.ipynb) (Section 10.4)
+* [FullyConnectedNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/FullyConnectedNeuralNetworks.ipynb): Basic examples of training fully connected neural networks in PyTorch, and applications to synthetic and real data (Section 10.1).
+* [ConvolutionalNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/ConvolutionalNeuralNetworks.ipynb): Basic examples of training convolutional neural networks in PyTorch, and applications classifying MNIST digits (Section 10.3)
+* [GraphConvolutionalNeuralNetworks](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/GraphConvolutionalNeuralNetworks.ipynb): Basic example of training a graph convolutional neural network for node classification in PyTorch, and application to PubMed academic paper classification. (Section 10.4)
+
+
