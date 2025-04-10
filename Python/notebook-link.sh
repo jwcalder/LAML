@@ -8,4 +8,4 @@ pyfile=$1
 
 url=https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/"$(dirname "$pyfile")/$(basename "$pyfile" .py).ipynb"
 
-echo "*[$(basename "$pyfile" .py)]("$url")"
+echo "* [$(basename "$pyfile" .py)]("$url")"
