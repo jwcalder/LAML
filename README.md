@@ -16,15 +16,24 @@ The student solutions manual and errata for the book can be found at the links b
 Below are descriptions of, and links to, the Python notebooks from the main body of the text. There are additional homework solution notebooks that are linked in the student solution manual. All notebooks are stored in this GitHub repository, but clicking on the link below will conveniently open the notebook in Google Colab. 
 
 ### Introductory Notebooks
-* [IntroPython](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroPython.ipynb): Basic introduction to the Python programming language.
-* [IntroPythonSol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroPythonSol.ipynb): Basic introduction to the Python programming language with solutions to exercises. 
-* [IntroNumpy](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroNumpy.ipynb): Basic introduction to the NumPy package.
-* [IntroNumpySol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroNumpySol.ipynb): Basic introduction to the NumPy package with solutions to exercises.
-* [AdvancedNumpy](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/AdvancedNumpy.ipynb): An overview of more advanced features of NumPy.
-* [AdvancedNumpySol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/AdvancedNumpySol.ipynb): An overview of more advanced features of NumPy.
-* [NumpySolvers](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/NumpySolvers.ipynb): Basic introductory notebook showing how to solve linear systems and eigenvalue problems in Numpy (and Scipy). 
-* [IntroPandas](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/IntroPandas.ipynb): Basic introduction to the Pandas package.
-* [IntroPyTorch](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/IntroPyTorch.ipynb): Basic introduction to the PyTorch package, which is used for deep learning.
+* Basic introduction to the Python programming language:
+        [IntroPython](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroPython.ipynb)
+* Basic introduction to the Python programming language with solutions to exercises:
+        [IntroPythonSol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroPythonSol.ipynb) 
+* Basic introduction to the NumPy package:
+        [IntroNumpy](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroNumpy.ipynb)
+* Basic introduction to the NumPy package with solutions to exercises:
+        [IntroNumpySol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/IntroNumpySol.ipynb)
+* An overview of more advanced features of NumPy:
+        [AdvancedNumpy](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/AdvancedNumpy.ipynb)
+* An overview of more advanced features of NumPy:
+        [AdvancedNumpySol](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/AdvancedNumpySol.ipynb)
+* Basic introductory notebook showing how to solve linear systems and eigenvalue problems in Numpy (and Scipy):
+        [NumpySolvers](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Intro/NumpySolvers.ipynb) 
+* Basic introduction to the Pandas package:
+        [IntroPandas](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/IntroML/IntroPandas.ipynb)
+* Basic introduction to the PyTorch package, which is used for deep learning:
+        [IntroPyTorch](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/NeuralNetworks/IntroPyTorch.ipynb)
 
 ### QR Factorization (Chapter 4)
 * [QRFactorization](https://colab.research.google.com/github/jwcalder/LAML/blob/main/Python/Homework/QRFactorization.ipynb): Notebook on QR factorization and numerical instabilities (Section 4.7).
