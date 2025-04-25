@@ -6,7 +6,7 @@ This notebook is a brief introduction to graph convolutional neural networks (GC
 """
 
 # %%
-pip install -q graphlearning
+#pip install -q graphlearning
 
 # %%
 """
