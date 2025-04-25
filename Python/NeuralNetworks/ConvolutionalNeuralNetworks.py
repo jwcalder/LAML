@@ -7,7 +7,7 @@ This notebook gives an introduction to training convolutional neural networks in
 
 # %%
 """
-Below we construct a small convolutional neural network with 2 convolutional layers with 32 and 64 channels. Between each layer is a 2x2 max pool. After the two convolutions and max poolings, the 28x28 MNIST digits are mapped to 64 5x5 images. The 64*5*5=1600 flattened features are then fed into a one hidden layer fully connected neural network with 1024 hidden neurons. 
+Below we construct a small convolutional neural network with 2 convolutional layers with 32 and 64 channels. Between each layer is a 2x2 max pool. After the two convolutions and max poolings, the 28x28 MNIST digits are mapped to 64 5x5 images. The 64x5x5=1600 flattened features are then fed into a one hidden layer fully connected neural network with 1024 hidden neurons. 
 """
 
 # %%
@@ -40,7 +40,7 @@ class CNN(nn.Module):
 
 # %%
 """
-Below we define functions to implement 1 training epoch using stochastic gradient descent and compute the test accuracy. These functions make use of PyTorch data loaders, which are convenient ways to load data sets and access minibatches for training.
+Below we define functions to implement 1 training epoch using stochastic gradient descent and compute the test accuracy. These are standard functions from the PyTorch package. These functions make use of PyTorch data loaders, which are convenient ways to load data sets and access minibatches for training.
 """
 
 # %%
