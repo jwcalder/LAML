@@ -56,7 +56,6 @@ for i in range(num_steps):
     lnext = (1 + np.sqrt(1 + 4*l**2))/2
     ynext = x_ns - alpha*grad_f(x_ns)
     x_ns = ynext + ((l-1)/lnext)*(ynext - y_ns)   #Original Nesterov
-    #x_ns = ynext + ((i-1)/(i+2))*(ynext - y_ns)  #Alternative Nesterov
     y_ns = ynext
     f_vals_ns[i] = f(y_ns)
 
