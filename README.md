@@ -4,6 +4,8 @@ This is the main website for electronic material for the textbook
 
 J. Calder, P. J. Olver. [Linear Algebra, Data Science, and Machine Learning](https://), Springer 2025.
 
+You can view the [Table of Contents](https://)
+
 ## Student Solutions Manual and Errata
 
 The student solutions manual and errata for the book can be found at the links below.
